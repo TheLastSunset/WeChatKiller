@@ -1,0 +1,6 @@
+.vs
+bin
+!obj/project.assets.json
+obj
+Properties
+WeChatKiller.csproj.user
